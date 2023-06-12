@@ -1,0 +1,14 @@
+
+body{
+    background-color: darkslateblue;
+    color: white;
+    padding: 50px;
+}
+h1{
+    color: #eef;
+    text-align: center;
+}
+img{
+   width: 200px;
+   text-align: center;
+}
